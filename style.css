@@ -5,9 +5,15 @@
 }
 
 body {
-    padding: 10rem;
+    padding: 8rem;
     background-color: #F3EAE3;
     font-family: "Fraunces", serif;
+}
+
+.container {
+    width: 700px; 
+    height: 700px;
+    margin: auto;
 }
 
 .d-flex {
@@ -46,7 +52,7 @@ h5 {
 }
 
 h1 {
-    font-size: 78px;
+    font-size: 50px;
 }
 
 p {
@@ -57,7 +63,7 @@ p {
 
 h2 {
     display: flex;
-    font-size: 50px;
+    font-size: 40px;
     color: #3A8469;
 }
 
@@ -72,7 +78,7 @@ h4 {
 button {
     background-color: #3A8469;
     color: #fff;
-    padding: 30px 20px;
+    padding: 25px 15px;
     border: none;
     border-radius: 10px;
     margin-top: 20px;
@@ -82,14 +88,14 @@ button {
 
 .cart-item {
     margin-left: 1rem;
-    font-size: 40px;
+    font-size: 25px;
     color: #fff;
     text-decoration: none;
     margin-top: -10px;
 }
 
 .cart-icon {
-    width: 35px;
+    width: 25px;
     border-radius: 0px;
 }
 
